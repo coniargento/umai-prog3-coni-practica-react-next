@@ -1,0 +1,28 @@
+.containerfooter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.menufooter{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.menufooter ul {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.menufooter ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.containerfooter a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}

@@ -9,7 +9,7 @@ import footer from "@/componentes/Footer/footer";
 export default function Home() {
   return (
     <main>
-      <navbar title={'Satoru Gojo'}/>
+      <navbar title={'Cafeteria'}/>
       <hero imagen={fotos[0].imagen} alt={fotos[0].description} title={fotos[0].title} />
       <cardsgridcompo cards={cardgrid}/>
       <footer/>

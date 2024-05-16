@@ -1,4 +1,4 @@
-import styles from './hero-estilos.css'
+import styles from './Hero-estilos.css'
 
 const hero = ({ imagen, alt, title }) => {
     return (

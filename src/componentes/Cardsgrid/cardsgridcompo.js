@@ -1,4 +1,4 @@
-import card from '../Card/card.js';
+import Card from './Card/Card.js';
 
 const cardsgrid = ({cards}) => {
   return (

@@ -1,5 +1,5 @@
-import navmenu from "./navmenu.js";
-import styles from "./navbar-estilos.css"
+import navmenu from "/Navmenu.js";
+import styles from "./Navbar-estilos.css"
 
 const navbar = (props) => {
 const {title} = props

@@ -3,8 +3,8 @@ import Footer from '../components/Footer';
 import Hero from '../components/Hero';
 import CardsGrid from '../components/CardsGrid';
 import Card from '../components/Card';
-import Image from "next/image";
-import styles from "./page.module.css";
+import Image from "next/images";
+//import styles from "./page.module.css";
 const Home = () => {
     // Define los datos de las tarjetas
     const cardsData = [

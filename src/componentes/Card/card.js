@@ -1,4 +1,4 @@
-import Image from "@/imagenes";
+import Image from "next/images";
 import styles from './cardestilos.css'
 
 /*const Card = (props) => {

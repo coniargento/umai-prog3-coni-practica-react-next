@@ -1,5 +1,5 @@
 import Image from "next/images";
-import styles from './Cardestilos.css'
+import styles from './Card.estilos.css'
 
 /*const Card = (props) => {
     const { image, title, description } = props

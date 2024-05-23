@@ -1,4 +1,4 @@
-import navmenu from "/Navmenu.js";
+import navmenu from "./Navmenu.js"
 import styles from "./Navbar-estilos.css"
 
 const navbar = (props) => {

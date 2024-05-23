@@ -1,4 +1,4 @@
-import styles from "./Navbar-estilos.css"
+import styles from "./Navbar.estilos.css0"
 const navmenu = () => {
     return (
     <ul className={styles.container}>
